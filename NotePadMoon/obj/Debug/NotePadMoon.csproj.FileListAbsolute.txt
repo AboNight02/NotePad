@@ -1,0 +1,15 @@
+D:\files\NotePadMoon\NotePadMoon\bin\Debug\NotePadMoon.exe.config
+D:\files\NotePadMoon\NotePadMoon\bin\Debug\NotePadMoon.exe
+D:\files\NotePadMoon\NotePadMoon\bin\Debug\NotePadMoon.pdb
+D:\files\NotePadMoon\NotePadMoon\bin\Debug\Guna.UI2.dll
+D:\files\NotePadMoon\NotePadMoon\obj\Debug\NotePadMoon.csproj.AssemblyReference.cache
+D:\files\NotePadMoon\NotePadMoon\obj\Debug\NotePadMoon.csproj.SuggestedBindingRedirects.cache
+D:\files\NotePadMoon\NotePadMoon\obj\Debug\NotePadMoon.Properties.Resources.resources
+D:\files\NotePadMoon\NotePadMoon\obj\Debug\NotePadMoon.csproj.GenerateResource.cache
+D:\files\NotePadMoon\NotePadMoon\obj\Debug\NotePadMoon.csproj.CoreCompileInputs.cache
+D:\files\NotePadMoon\NotePadMoon\obj\Debug\NotePadMoon.csproj.CopyComplete
+D:\files\NotePadMoon\NotePadMoon\obj\Debug\NotePadMoon.exe
+D:\files\NotePadMoon\NotePadMoon\obj\Debug\NotePadMoon.pdb
+D:\files\NotePadMoon\NotePadMoon\obj\Debug\NotePadMoon.NotePad.resources
+D:\files\NotePadMoon\NotePadMoon\bin\Debug\Bunifu_UI_v1.52-1.dll
+D:\files\NotePadMoon\NotePadMoon\obj\Debug\NotePadMoon.Saves.resources
